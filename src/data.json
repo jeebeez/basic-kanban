@@ -1,0 +1,175 @@
+{
+    "boards": [
+        {
+            "id": "1",
+            "name": "Board 1",
+            "columns": [
+                {
+                    "id": "todo",
+                    "title": "To Do"
+                },
+                {
+                    "id": "doing",
+                    "title": "Doing"
+                },
+                {
+                    "id": "done",
+                    "title": "Done"
+                }
+            ],
+            "tasks": [
+                {
+                    "id": "1",
+                    "title": "Setup project repo",
+                    "tableId": "1",
+                    "columnId": "todo",
+                    "status": "todo"
+                },
+                {
+                    "id": "2",
+                    "title": "Design mockups",
+                    "tableId": "1",
+                    "columnId": "doing",
+                    "status": "doing"
+                },
+                {
+                    "id": "3",
+                    "title": "Write README",
+                    "tableId": "1",
+                    "columnId": "done",
+                    "status": "done"
+                },
+                {
+                    "id": "4",
+                    "title": "Define data model",
+                    "tableId": "1",
+                    "columnId": "todo",
+                    "status": "todo"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Board 2",
+            "columns": [
+                {
+                    "id": "todo",
+                    "title": "To Do"
+                },
+                {
+                    "id": "doing",
+                    "title": "Doing"
+                },
+                {
+                    "id": "done",
+                    "title": "Done"
+                }
+            ],
+            "tasks": [
+                {
+                    "id": "5",
+                    "title": "Plan marketing strategy",
+                    "tableId": "2",
+                    "columnId": "todo",
+                    "status": "todo"
+                },
+                {
+                    "id": "6",
+                    "title": "Create ad copy",
+                    "tableId": "2",
+                    "columnId": "doing",
+                    "status": "doing"
+                },
+                {
+                    "id": "7",
+                    "title": "Launch campaign",
+                    "tableId": "2",
+                    "columnId": "done",
+                    "status": "done"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Board 3",
+            "columns": [
+                {
+                    "id": "todo",
+                    "title": "To Do"
+                },
+                {
+                    "id": "doing",
+                    "title": "Doing"
+                },
+                {
+                    "id": "done",
+                    "title": "Done"
+                }
+            ],
+            "tasks": [
+                {
+                    "id": "8",
+                    "title": "Implement authentication",
+                    "tableId": "3",
+                    "columnId": "todo",
+                    "status": "todo"
+                },
+                {
+                    "id": "9",
+                    "title": "Build database schema",
+                    "tableId": "3",
+                    "columnId": "doing",
+                    "status": "doing"
+                },
+                {
+                    "id": "10",
+                    "title": "Write API tests",
+                    "tableId": "3",
+                    "columnId": "done",
+                    "status": "done"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Board 4",
+            "columns": [
+                {
+                    "id": "todo",
+                    "title": "To Do"
+                },
+                {
+                    "id": "doing",
+                    "title": "Doing"
+                },
+                {
+                    "id": "done",
+                    "title": "Done"
+                }
+            ],
+            "tasks": [
+                {
+                    "id": "11",
+                    "title": "Write blog post",
+                    "tableId": "4",
+                    "columnId": "todo",
+                    "status": "todo"
+                },
+                {
+                    "id": "12",
+                    "title": "SEO research",
+                    "tableId": "4",
+                    "columnId": "doing",
+                    "status": "doing"
+                },
+                {
+                    "id": "13",
+                    "title": "Publish to website",
+                    "tableId": "4",
+                    "columnId": "done",
+                    "status": "done"
+                }
+            ]
+        }
+    ]
+}
